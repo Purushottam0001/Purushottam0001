@@ -3,8 +3,15 @@
   <img src="assets/banner.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Purushottam Kumar!</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h1 align="center">✨ Purushottam Kumar ✨</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&color=36BCF7&lines=Full+Stack+Developer;Java+%7C+MERN+%7C+DSA;Passionate+about+AI+%26+Backend" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Purushottam0001&style=for-the-badge&color=blue" />
+</p>
 
 <!-- Colorful Divider -->
 <div align="center">
