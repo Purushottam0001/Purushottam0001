@@ -28,8 +28,7 @@
 - 🎓 I'm currently pursuing **B.Tech in CSE**  
 - 📬 You can contact me at **23053230@kiit.ac.in**  
 - 🚀 Building Java + MERN projects  
-- 💡 Best work: ML Models from Scratch / Full-stack MERN Apps  
-- 🔮 Interested in future tech, backend engineering & ML  
+- 🔮 Interested in future tech !!  
 
 <!-- Divider -->
 <div align="left">
