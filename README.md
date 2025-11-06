@@ -3,110 +3,102 @@
   <img src="assets/banner.gif" width="100%" />
 </p>
 
-<h1 align="center">✨ Purushottam Kumar ✨</h1>
+<h1 align="center">Hi 👋, I'm Purushottam Kumar</h1>
+<p align="center"><b>A Passionate Full Stack Developer from India</b></p>
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&color=36BCF7&lines=Full+Stack+Developer;Java+%7C+MERN+%7C+DSA;Passionate+about+AI+%26+Backend" />
+  <img src="https://komarev.com/ghpvc/?username=Purushottam0001&style=flat-square&color=blue" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Purushottam0001&style=for-the-badge&color=blue" />
+### 🎯 About Me
+
+- 🎓 I'm currently pursuing **B.Tech in CSE**  
+- 📬 Contact me at **23053230@kiit.ac.in**  
+- 🚀 I build **Java & MERN full-stack projects**  
+- 🧠 Currently learning **Spring Boot & Cloud**  
+- ✨ My best works so far:  
+  - MERN Movies App  
+  - Logistic Regression from Scratch  
+  - Uber Data Analysis  
+- 🌱 Interested in **AI, Backend Systems, Data & future tech**
+
+---
+
+### 🛠️ Skills
+
+<p align="left">
+  <!-- HTML -->
+  <img src="https://skillicons.dev/icons?i=html" width="45"/>
+  <!-- CSS -->
+  <img src="https://skillicons.dev/icons?i=css" width="45"/>
+  <!-- Bootstrap -->
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="45"/>
+  <!-- Tailwind -->
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
+  <!-- JavaScript -->
+  <img src="https://skillicons.dev/icons?i=js" width="45"/>
+  <!-- Express -->
+  <img src="https://skillicons.dev/icons?i=express" width="45"/>
+  <!-- Node.js -->
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
+  <!-- React -->
+  <img src="https://skillicons.dev/icons?i=react" width="45"/>
+  <!-- MongoDB -->
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
+  <!-- PostgreSQL -->
+  <img src="https://skillicons.dev/icons?i=postgres" width="45"/>
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=python" width="45"/>
+  <!-- Git -->
+  <img src="https://skillicons.dev/icons?i=git" width="45"/>
+  <!-- Docker -->
+  <img src="https://skillicons.dev/icons?i=docker" width="45"/>
+  <!-- TypeScript -->
+  <img src="https://skillicons.dev/icons?i=ts" width="45"/>
 </p>
 
 ---
 
-# 🌌 About Me
+### 🌐 Connect with Me
 
-Hi! I'm **Purushottam**, a passionate full-stack developer focused on  
-**Java**, **MERN**, **Machine Learning**, and **clean UI development**.
-
-- 🎓 B.Tech CSE @ KIIT  
-- 🧠 Learning: **Spring Boot**, **Cloud**, **DevOps**  
-- 🚀 Building full stack applications + ML models from scratch  
-- 🛠 Skilled in Java, React, Node, Express, MongoDB  
-- ⚡ Fun fact: I debug faster with coffee ☕  
-
----
-
-# 🎯 Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,html,css,react,nodejs,express,mongodb,postgres,git,docker,linux,bootstrap,tailwind&theme=dark" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### ✅ **MERN Movies App**  
-📁 Full-stack CRUD | 🔐 JWT Auth | 📸 Image Uploads  
-🔗 Code: https://github.com/Purushottam0001/MERN-Movies-App  
-
-### ✅ **Breast Cancer Diagnosis – Logistic Regression (from Scratch)**  
-🧮 NumPy | 📊 ML Math | ✅ Good Accuracy  
-🔗 Code: https://github.com/Purushottam0001/Breast-Cancer-Diagnosis-Logistic-Regression-from-Scratch  
-
-### ✅ **Uber Ride Data Analysis**  
-📈 Pandas | 🖼 Visualizations | 📉 Real Data  
-🔗 Code: https://github.com/Purushottam0001/Uber-Ride-Data-Analysis  
-
----
-
-# 🎨 Tech Stack Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
-
----
-
-# 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/purushottam-kumar-9704a4357/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="55"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-link/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
-  <a href="https://www.instagram.com/____.s.h.i.v.a.m____/">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="55"/>
+  <a href="https://instagram.com/your-instagram/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
   </a>
-  <a href="mailto:23053230@kiit.ac.in">
-    <img src="https://img.shields.io/badge/Email-me-blue?style=for-the-badge&logo=gmail" />
+  <a href="https://discord.gg/">
+    <img src="https://skillicons.dev/icons?i=discord" width="50"/>
   </a>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+### 🧩 Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Purushottam0001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushottam0001&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+#### ✅ MERN Movies App  
+🔗 **Code:** https://github.com/Purushottam0001/MERN-Movies-App
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Purushottam0001&theme=tokyonight&hide_border=true" height="170" />
-</p>
+#### ✅ Breast Cancer Diagnosis (Logistic Regression from Scratch)  
+🔗 **Code:** https://github.com/Purushottam0001/Breast-Cancer-Diagnosis-Logistic-Regression-from-Scratch
 
----
-
-# ✅ Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Purushottam0001&theme=tokyo-night" />
-</p>
+#### ✅ Uber Ride Data Analysis  
+🔗 **Code:** https://github.com/Purushottam0001/Uber-Ride-Data-Analysis
 
 ---
 
-# 🏆 Achievements
+### 📊 GitHub Stats
 
-- ✅ Java Development Intern (1Stop & Keep Growing)  
-- ✅ KIIT AI-SoC Hackathon Participant  
-- ✅ Built ML Algorithms from Scratch  
-- ✅ Full-stack MERN Developer  
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Purushottam0001&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushottam0001&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=Purushottam0001&theme=tokyonight" />
+</p>
 
 ---
-
-<p align="center">✨ Thanks for visiting! ✨</p>
