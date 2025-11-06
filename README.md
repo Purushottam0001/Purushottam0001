@@ -3,7 +3,7 @@
   <img src="assets/github.gif" width="100%" />
 </p>
 
-<h1 align="center">✨ Purushottam Kumar ✨</h1>
+<h1 align="center">Hi 👋,Purushottam Kumar </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&color=36BCF7&lines=Full+Stack+Developer;Java+%7C+MERN+%7C+DSA;Passionate+about+AI+%26+Backend" />
