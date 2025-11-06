@@ -1,104 +1,78 @@
-<!-- Banner -->
+<!-- Pixel Banner -->
 <p align="center">
   <img src="assets/banner.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Purushottam Kumar</h1>
-<p align="center"><b>A Passionate Full Stack Developer from India</b></p>
+<h1 align="center">Hi 👋, I'm Purushottam Kumar!</h1>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
----
+<!-- Colorful Divider -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="90%">
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Purushottam0001&style=flat-square&color=blue" />
+<!-- Profile View Counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Purushottam0001&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-### 🎯 About Me
+### About Me
 
 - 🎓 I'm currently pursuing **B.Tech in CSE**  
-- 📬 Contact me at **23053230@kiit.ac.in**  
-- 🚀 I build **Java & MERN full-stack projects**  
-- 🧠 Currently learning **Spring Boot & Cloud**  
-- ✨ My best works so far:  
-  - MERN Movies App  
-  - Logistic Regression from Scratch  
-  - Uber Data Analysis  
-- 🌱 Interested in **AI, Backend Systems, Data & future tech**
+- 📬 You can contact me at **23053230@kiit.ac.in**  
+- 🚀 Building Java + MERN projects  
+- 💡 Best work: ML Models from Scratch / Full-stack MERN Apps  
+- 🔮 Interested in future tech, backend engineering & ML  
 
----
+<!-- Divider -->
+<div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="90%">
+</div>
 
-### 🛠️ Skills
-
-<p align="left">
-  <!-- HTML -->
-  <img src="https://skillicons.dev/icons?i=html" width="45"/>
-  <!-- CSS -->
-  <img src="https://skillicons.dev/icons?i=css" width="45"/>
-  <!-- Bootstrap -->
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="45"/>
-  <!-- Tailwind -->
-  <img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
-  <!-- JavaScript -->
-  <img src="https://skillicons.dev/icons?i=js" width="45"/>
-  <!-- Express -->
-  <img src="https://skillicons.dev/icons?i=express" width="45"/>
-  <!-- Node.js -->
-  <img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
-  <!-- React -->
-  <img src="https://skillicons.dev/icons?i=react" width="45"/>
-  <!-- MongoDB -->
-  <img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
-  <!-- PostgreSQL -->
-  <img src="https://skillicons.dev/icons?i=postgres" width="45"/>
-  <!-- Python -->
-  <img src="https://skillicons.dev/icons?i=python" width="45"/>
-  <!-- Git -->
-  <img src="https://skillicons.dev/icons?i=git" width="45"/>
-  <!-- Docker -->
-  <img src="https://skillicons.dev/icons?i=docker" width="45"/>
-  <!-- TypeScript -->
-  <img src="https://skillicons.dev/icons?i=ts" width="45"/>
-</p>
-
----
-
-### 🌐 Connect with Me
+### ⭐ Skills
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-link/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" />
+<img src="https://img.icons8.com/?size=96&id=21278&format=png" width="50" height="47" />
+<img src="https://img.icons8.com/?size=128&id=ZMc42tPbG32H&format=png" width="45" height="45" />
+<img src="https://img.icons8.com/?size=96&id=CIAZz2CYc6Kc&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=96&id=dJjTWMogzFzg&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=128&id=Nkym0Ujb8VGI&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=128&id=2ZOaTclOqD4q&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=96&id=hsPbhkOH4FMe&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=128&id=lVitPDXqQKP8&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=160&id=tBBf3P8HL0vR&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=160&id=Pv4IGT0TSpt8&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=96&id=rHpveptSuwDz&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=96&id=8verEw3iUvx0&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=96&id=22813&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" height="42" />
+
+</p>
+
+<!-- Divider -->
+<div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="90%">
+</div>
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/purushottam-kumar-9704a4357/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/your-instagram/">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+  <a href="https://www.instagram.com/____.s.h.i.v.a.m____/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/">
-    <img src="https://skillicons.dev/icons?i=discord" width="50"/>
+  <a href="#">
+    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="30" width="40" />
   </a>
 </p>
 
----
+<!-- Divider -->
+<div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="90%">
+</div>
 
-### 🧩 Projects
 
-#### ✅ MERN Movies App  
-🔗 **Code:** https://github.com/Purushottam0001/MERN-Movies-App
-
-#### ✅ Breast Cancer Diagnosis (Logistic Regression from Scratch)  
-🔗 **Code:** https://github.com/Purushottam0001/Breast-Cancer-Diagnosis-Logistic-Regression-from-Scratch
-
-#### ✅ Uber Ride Data Analysis  
-🔗 **Code:** https://github.com/Purushottam0001/Uber-Ride-Data-Analysis
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Purushottam0001&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushottam0001&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=Purushottam0001&theme=tokyonight" />
-</p>
-
----
