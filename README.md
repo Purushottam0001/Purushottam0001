@@ -1,17 +1,10 @@
 <!-- Pixel Banner -->
 <p align="center">
-  <img src="assets/github.gif" width="100%" />
+  <img src="assets/banner.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋,Purushottam Kumar </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&color=36BCF7&lines=Full+Stack+Developer;Java+%7C+MERN+%7C+DSA;Passionate+about+AI+%26+Backend" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Purushottam0001&style=for-the-badge&color=blue" />
-</p>
+<h1 align="center">Hi 👋, I'm Purushottam Kumar!</h1>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <!-- Colorful Divider -->
 <div align="center">
@@ -28,79 +21,40 @@
 - 🎓 I'm currently pursuing **B.Tech in CSE**  
 - 📬 You can contact me at **23053230@kiit.ac.in**  
 - 🚀 Building Java + MERN projects  
-- 🔮 Interested in future tech !!  
+- 💡 Best work: ML Models from Scratch / Full-stack MERN Apps  
+- 🔮 Interested in future tech, backend engineering & ML  
 
 <!-- Divider -->
 <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="90%">
 </div>
 
----
+### ⭐ Skills
 
-# ⭐ Skills
-
-<!-- Typing animation for Skill title -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&size=22&color=36BCF7&lines=My+Tech+Stack;Java+%7C+MERN+%7C+ML+%7C+Tools" />
-</p>
-
-<!-- Small Neon Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="85%">
-</p>
-
-### 🔹 Languages  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java" width="45" />
-  <img src="https://skillicons.dev/icons?i=python" width="45" />
-  <img src="https://skillicons.dev/icons?i=c" width="45" />
-  <img src="https://skillicons.dev/icons?i=js" width="45" />
-  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&labelColor=000" height="28" />
-</p>
 
-### 🎨 Frontend  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" width="45" />
-</p>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" />
+<img src="https://img.icons8.com/?size=96&id=21278&format=png" width="50" height="47" />
+<img src="https://img.icons8.com/?size=128&id=ZMc42tPbG32H&format=png" width="45" height="45" />
+<img src="https://img.icons8.com/?size=96&id=CIAZz2CYc6Kc&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=96&id=dJjTWMogzFzg&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=128&id=Nkym0Ujb8VGI&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=128&id=2ZOaTclOqD4q&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=96&id=hsPbhkOH4FMe&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=128&id=lVitPDXqQKP8&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=160&id=tBBf3P8HL0vR&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=160&id=Pv4IGT0TSpt8&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=96&id=rHpveptSuwDz&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=96&id=8verEw3iUvx0&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=96&id=22813&format=png" width="50" height="48" />
+<img src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" height="42" />
 
-### 🛠 Backend  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" width="45" />
-  <img src="https://img.shields.io/badge/Mongoose-ODM-green?style=for-the-badge&labelColor=000" height="28" />
-  <img src="https://img.shields.io/badge/JWT-Auth-success?style=for-the-badge&labelColor=000" height="28" />
-  <img src="https://img.shields.io/badge/Multer-Uploads-orange?style=for-the-badge&labelColor=000" height="28" />
-</p>
-
-### 🗄 Databases  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" />
-</p>
-
-### 🤖 ML / Data Science  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" />
-  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="50" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="120" />
-</p>
-
-### 🧰 Tools & Platforms  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,gcp,jenkins" width="45" />
-</p>
-
-### 💻 IDEs  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio" width="45" />
-  <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" width="45" title="JUnit" />
 </p>
 
 <!-- Divider -->
 <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="90%">
 </div>
-
----
 
 ### 🤝 Connect with me
 
@@ -120,3 +74,5 @@
 <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="90%">
 </div>
+
+
