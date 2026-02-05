@@ -19,9 +19,7 @@
 </div>
 
 <!-- Profile View Counter -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Purushottam0001&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+
 
 ### About Me
 
