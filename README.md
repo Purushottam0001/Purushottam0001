@@ -15,7 +15,7 @@
 
 <!-- Colorful Divider -->
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="80%">
 </div>
 
 <!-- Profile View Counter -->
